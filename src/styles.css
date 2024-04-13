@@ -1,0 +1,23 @@
+.contact-list{
+  font-family:'Courier New', Courier, monospace ;
+}
+.contact {
+  border: 1px solid;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+.contact h2 {
+  margin-top: auto;
+}
+
+.contact p {
+  margin: 5px 0;
+}
+.contact-icon{
+  background-position: center;
+  width: 100px;
+  height:100px;
+  border-radius: 50%;
+  background: blue;
+}
